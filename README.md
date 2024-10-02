@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @EllenHabash
+- 🌱 I’m currently learning Computer Science
